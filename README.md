@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Ravi</h1>
 <h3 align="center">A passionate fullstack Developer from Canada</h3>
 
-- 🔭 I’m currently a **graduate student**
+- 🔭 I’m currently a **graduate student** pursuing my masters at University of Waterloo
 
 - 🌱 I’m currently learning **React, React Native**
 
