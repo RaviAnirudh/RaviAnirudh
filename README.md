@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **challenging work oppurtunities ahead.**
 
-- 📫 How to reach me **a2ravi@uwaterloo.ca**
+- 📫 How to reach me **ravianirudh25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
